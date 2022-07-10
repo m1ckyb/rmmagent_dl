@@ -13,10 +13,10 @@ if [ "${HAS_SYSTEMD}" != 'systemd' ]; then
 fi
 
 agentDL='https://github.com/m1ckyb/rmmagent_dl/releases/download/v2.1.1/rmmagent-x64'
-meshDL='https://mesh.m1ckyb.com/meshagents?id=RVsqeI$wy1bIrDV3S5MeZbv$wiPkQzZq1nGTEDkoFJNGjYIpKGIoX4bgU3o64A0y'
+meshDL='https://mesh.m1ckyb.com/meshagents?id=RVsqeI%24wy1bIrDV3S5MeZbv%24wiPkQzZq1nGTEDkoFJNGjYIpKGIoX4bgU3o64A0y&installflags=0&meshinstall=6'
 
 apiURL='https://api.m1ckyb.com'
-token='68636dc43ac45262c58302bffb103c6763eba9e6b567ea8584d2247fa0b243d8'
+token='d960285a19d1670a08ff4e73a02da63212ccc16fbe0a057f1700e14623181616'
 clientID='1'
 siteID='1'
 agentType='server'
